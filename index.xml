@@ -34,8 +34,8 @@
     <title>Diamond_1998_Optimal_Income_Tax</title>
     <link>https://cleverlsy.github.io/PublicEconRoadMap-Site/20_Literature_Notes/Diamond_1998_Optimal_Income_Tax</link>
     <guid>https://cleverlsy.github.io/PublicEconRoadMap-Site/20_Literature_Notes/Diamond_1998_Optimal_Income_Tax</guid>
-    <description>最优所得税的非线性特征 [Author_Year_Title] § 核心贡献 (Key Contribution) § 解决了什么问题 (Research Question) § 对应的问题节点：关联的研究问题 方法论 (Methodology) § 数据： 识别策略： 结论 (Conclusion) § 留下的思考 (Critical Thinking) § 该文章有什么局限性？ .</description>
-    <pubDate>Mon, 24 Nov 2025 14:04:13 GMT</pubDate>
+    <description>最优所得税的非线性特征 [Author_Year_Title] § 核心贡献 (Key Contribution) § 解决了什么问题 (Research Question) § 对应的问题节点：关联的研究问题 方法论 (Methodology) § 数据： 识别策略： Test 公式的网页渲染 Yipt​=α+Xpt​γ+ϵipt​ Test 代码块的网页渲染 reghdfe Y X, absorb(i t) 结论 (Conclusion) § 留下的思考 (Critical Thinking) § 该文章有什么局限性？ .</description>
+    <pubDate>Mon, 24 Nov 2025 14:30:46 GMT</pubDate>
   </items><items>
     <title>📚 文献档案馆 (Literature Notes)</title>
     <link>https://cleverlsy.github.io/PublicEconRoadMap-Site/20_Literature_Notes/</link>
@@ -67,12 +67,6 @@
     <description> 核心定位 “中央与地方如何分工？” 研究政府间的财政关系、事权划分以及地方政府的行为激励。 🔑 Key Topics § Decentralization: Tiebout Model. Intergovernmental Transfers: 转移支付效应。 Local Competition: Tax competition, Race to the bottom.</description>
     <pubDate>Mon, 24 Nov 2025 13:45:07 GMT</pubDate>
   </items><items>
-    <title>🗳️ 7. Political Economy</title>
-    <link>https://cleverlsy.github.io/PublicEconRoadMap-Site/10_Problem_Set/Political_Economy_and_Public_Choice/</link>
-    <guid>https://cleverlsy.github.io/PublicEconRoadMap-Site/10_Problem_Set/Political_Economy_and_Public_Choice/</guid>
-    <description> 核心定位 “政治如何扭曲经济决策？” 将政治过程（选举、游说、官僚）作为内生变量纳入财政分析。 🔑 Key Topics § Political Incentives: Median Voter Theorem, Political Business Cycles. Interest Groups: Lobbying models.</description>
-    <pubDate>Mon, 24 Nov 2025 13:45:25 GMT</pubDate>
-  </items><items>
     <title>🏗️ 3. Public Expenditure</title>
     <link>https://cleverlsy.github.io/PublicEconRoadMap-Site/10_Problem_Set/Public_Expenditure_and_Public_Investment/</link>
     <guid>https://cleverlsy.github.io/PublicEconRoadMap-Site/10_Problem_Set/Public_Expenditure_and_Public_Investment/</guid>
@@ -102,5 +96,11 @@
     <guid>https://cleverlsy.github.io/PublicEconRoadMap-Site/10_Problem_Set/Taxation_Theory_and_Structure/最优所得税的非线性特征</guid>
     <description>[问题标题] § 1. 问题陈述 (Problem Statement) § 一句话描述为什么这个问题是重要的，以及当下的核心矛盾。 2. 经典坐标 (Theoretical Roots) § 列出该问题的理论基石，谁最早提出的？ Cite_经典文献1 : 提出了… Cite_经典文献2 : 修改了… 3.</description>
     <pubDate>Mon, 24 Nov 2025 10:48:13 GMT</pubDate>
+  </items><items>
+    <title>🗳️ 7. Political Economy</title>
+    <link>https://cleverlsy.github.io/PublicEconRoadMap-Site/10_Problem_Set/Political_Economy_and_Public_Choice/</link>
+    <guid>https://cleverlsy.github.io/PublicEconRoadMap-Site/10_Problem_Set/Political_Economy_and_Public_Choice/</guid>
+    <description> 核心定位 “政治如何扭曲经济决策？” 将政治过程（选举、游说、官僚）作为内生变量纳入财政分析。 🔑 Key Topics § Political Incentives: Median Voter Theorem, Political Business Cycles. Interest Groups: Lobbying models.</description>
+    <pubDate>Mon, 24 Nov 2025 13:45:25 GMT</pubDate>
   </items>
   </rss>
